@@ -1,7 +1,7 @@
 {
   "name": "mock-api",
   "version": "1.0.0",
-  "description": "Mock api for sellbanq",
+  "description": "Mock api for rapid development",
   "scripts": {
     "generate-mock-data": "babel-node schema/generator",
     "prestart-mockapi": "npm run generate-mock-data",
